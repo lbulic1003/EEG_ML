@@ -1,0 +1,6 @@
+variable,type,component,contribution_metric,value
+Gender,binary,comp_1,mean_abs_coef,1.3822844168567168
+Gender,binary,comp_2,mean_abs_coef,0.37405298018367816
+Gender,binary,comp_3,mean_abs_coef,0.16407588433587
+Gender,binary,comp_4,mean_abs_coef,0.5987838825468389
+Gender,binary,comp_5,mean_abs_coef,0.1903365448631553

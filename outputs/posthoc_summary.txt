@@ -1,0 +1,23 @@
+============================================================
+POST-HOC ANALYSIS SUMMARY
+============================================================
+
+N participants:               86
+N components:                 5
+N omnibus-surviving variables: 1
+FDR threshold (within variable): 0.05
+
+Omnibus-surviving variables:
+  Gender                                   | observed_stat=0.2742 | p_fdr=0.0034
+
+Per-component results: 2 component-variable pairs significant after within-variable FDR
+  comp_1   <-> Gender                                   | mann-whitney    | effect=0.577 | p_fdr=0.0000
+  comp_4   <-> Gender                                   | mann-whitney    | effect=-0.314 | p_fdr=0.0304
+
+Cluster × variable results (uncorrected p-values):
+    Gender                                   | fisher_exact    | stat=1.4933 | p=0.4752
+
+Files saved:
+  posthoc_per_component.csv
+  posthoc_cluster.csv
+  posthoc_summary.txt

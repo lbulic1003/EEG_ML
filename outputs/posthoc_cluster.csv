@@ -1,0 +1,2 @@
+variable,type,test,n,statistic,p_raw,note
+Gender,binary,fisher_exact,86,1.4933333333333334,0.4752044219627534,"contingency: [[32, 30], [10, 14]]"

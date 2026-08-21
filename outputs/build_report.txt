@@ -1,0 +1,79 @@
+Project root: C:\Users\lukab\Desktop\Algebra EEG\Project NMF
+EEG data dir: C:\Users\lukab\Desktop\Algebra EEG\Project NMF\data\eeg_features
+Output dir:   C:\Users\lukab\Desktop\Algebra EEG\Project NMF\outputs
+Loaded stimuli.csv: 37 tasks
+Columns: ['original_stimuli_name', 'description', 'primary_lobe_targeted', 'secondary_lobe_targeted', 'tertiary_lobe_targeted', 'cognitive_domain', 'expected_eeg_signature', 'dominant_network', 'expected_network_channels']
+
+Tasks per category (from primary_lobe_targeted):
+  frontal (6 tasks): ['baseline_talk', 'prefrontal1', 'prefrontal2', 'prefrontal3_reading', 'saying_words_based_on_cat', 'saying_words_based_on_cat2']
+  frontal_central (6 tasks): ['gyrus_left_open', 'gyrus_right_open', 'gyrus_left_closed_eyes', 'gyrus_right_closed_eyes', 'gyrus_coord', 'gyrus_coord2']
+  occipital (1 tasks): ['occipital4']
+  parietal (9 tasks): ['frontal2_memorization', 'frontal2_recall', 'valdo1', 'valdo2', 'valdo3', 'imagine_way_home', 'parietal_2d_3d', 'parietal_next_in_seq', 'parietal_next_in_seq2']
+  temporal (15 tasks): ['instructions_listening', 'frontal1_memorization', 'frontal1_recall', 'frontal3_saying_outloud', 'frontal3_recall', 'temporal_how_many_instruments1', 'temporal_how_many_instruments2', 'temporal_how_many_instruments3', 'temporal_how_many_instruments4', 'image_happiness', 'image_happy_cute', 'image_sad', 'image_sad2', 'image_angry', 'image_angry2']
+
+Total tasks mapped: 37
+Outcomes file: 100 participants with metadata
+Columns: ['ID', 'Age', 'Gender', 'Residential Area (Urban/Rural)', 'From City', 'Single/NotSingle', 'Education', 'Field of Study', 'Occupation', '# of LanguagesSpeak', 'UsedToDoSport', 'NowDoingSports_aWeek', 'PlayingAnInstrument', 'History of Neurological Disorders', 'Medication Usage', 'Average Sleep Hours per Night', 'Smoking (0,1,2,3)', 'Alchocol (0,1,2,3)']
+Found 86 participant folders
+First 5: ['BA1', 'BA2', 'BA3', 'BA4', 'BA5']
+Last 5:  ['BA89', 'BA90', 'BA91', 'BA92', 'BA93']
+NOTE: 14 outcomes without folders: ['BA10', 'BA100', 'BA101', 'BA40', 'BA41', 'BA54', 'BA55', 'BA67', 'BA88', 'BA94', 'BA96', 'BA97', 'BA98', 'BA99']
+Expecting 70 power features (14 channels x 5 bands)
+
+Example participant: BA1
+  Raw shape: (9850, 86)
+  Unique task names: 92
+  Rows categorized: 3841
+  Rows in tasks not in stimuli.csv: 6009
+
+  Rows per category:
+    frontal: 724
+    frontal_central: 523
+    occipital: 153
+    parietal: 1266
+    temporal: 1175
+
+Processed 86 folders, 86 produced data
+
+Feature matrix shape (before NaN handling): (86, 350)
+Expected if all categories present per participant: 5 categories x 70 = 350 columns
+
+Missingness summary:
+  Participants with any missing features: 0
+  Features missing in any participant:    0
+  Overall fraction missing:               0.0000
+
+No participants exceed the 10% threshold
+Matrix shape after exclusions: (86, 350)
+No remaining missing values to impute
+
+Winsorization at 2.5th/97.5th percentile (per feature):
+  Cells capped at lower bound: 1050 (3.49%)
+  Cells capped at upper bound: 1050 (3.49%)
+  Total cells affected:        2100 (6.98%)
+
+Non-normalized matrix range: [0.0229, 542.1499]
+Mean: 1.3979, Std: 5.0811
+
+Normalized matrix range: [0.0000, 1.0000]
+Mean: 0.3790, Std: 0.2536
+
+Final aligned dataset: 86 participants
+
+=== Cohort characteristics ===
+N = 86
+
+Relationship status:
+Single/NotSingle
+NotSingle    66
+Single       20
+
+Age: mean=36.4, SD=11.0, range=20-62
+Gender: {'M': 44, 'F': 42}
+
+=== Feature columns by category ===
+  frontal: 70 features
+  frontal_central: 70 features
+  occipital: 70 features
+  parietal: 70 features
+  temporal: 70 features

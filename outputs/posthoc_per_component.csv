@@ -1,0 +1,6 @@
+variable,type,component,n,test,statistic,effect_size,p_raw,note,p_fdr,significant_fdr
+Gender,binary,comp_1,86,mann-whitney,391.0,0.5768398268398268,4.12021303108037e-06,M(n=44) vs F(n=42),2.060106515540185e-05,True
+Gender,binary,comp_4,86,mann-whitney,1214.5,-0.31439393939393945,0.0121637532314487,M(n=44) vs F(n=42),0.03040938307862175,True
+Gender,binary,comp_2,86,mann-whitney,801.0,0.13311688311688308,0.2897831337507537,M(n=44) vs F(n=42),0.48297188958458953,False
+Gender,binary,comp_5,86,mann-whitney,977.0,-0.05735930735930728,0.649802765212117,M(n=44) vs F(n=42),0.7522581089651652,False
+Gender,binary,comp_3,86,mann-whitney,887.0,0.04004329004328999,0.7522581089651652,M(n=44) vs F(n=42),0.7522581089651652,False

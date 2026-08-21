@@ -1,0 +1,87 @@
+participant_id,Age,Gender,Residential Area (Urban/Rural),From City,Single/NotSingle,Education,Field of Study,Occupation,# of LanguagesSpeak,UsedToDoSport,NowDoingSports_aWeek,PlayingAnInstrument,History of Neurological Disorders,Medication Usage,Average Sleep Hours per Night,"Smoking (0,1,2,3)","Alchocol (0,1,2,3)"
+BA1,30,M,Urban,Zagreb,NotSingle,PhD,Bioinformatics,Researcher,2,Yes,2.0,Yes,No,No,7.0,1,1
+BA2,29,M,Urban,"Setubal, Portugal",Single,BSc,IT,Developer,4,Yes,3.0,Yes,No,No,7.0,1,1
+BA3,46,M,Rural,Zagreb,NotSingle,MSc,Math,Lecturer,2,Yes,2.0,No,No,No,7.0,0,0
+BA4,29,M,Urban,Sibenik,Single,BSc,IT,Student,3,No,0.0,No,No,Yes,8.0,0,1
+BA5,62,F,Urban,Zagreb,NotSingle,BSc,Pedagogy,Private Business (Renting),1,No,1.0,No,No,No,6.0,0,1
+BA6,62,M,Urban,Zagreb,NotSingle,BSc,Traffic Engineering,Private Business (Renting),1,Yes,1.0,No,No,No,8.0,1,2
+BA7,27,F,Urban,Zagreb,NotSingle,MSc,Geology,Administration,2,Yes,3.0,No,No,No,6.0,0,1
+BA8,51,M,Urban,Zagreb,NotSingle,PhD,IT,Researcher,2,No,0.0,No,No,No,7.0,1,1
+BA9,46,F,Urban,Zagreb,NotSingle,MSc,Biology,Administration,2,No,0.0,No,No,No,8.0,1,1
+BA11,41,F,Urban,Zagreb,NotSingle,PhD,Physics,Researcher/Lecturer,2,Yes,0.0,Yes,Yes,No,6.0,0,1
+BA12,34,F,Urban,Dudervac,NotSingle,MSc,Phychology,HR,2,Yes,2.0,No,No,No,7.0,0,1
+BA13,27,M,Urban,Krapina,Single,BSc,Journalism,PR/Marketing,3,Yes,0.0,Yes,No,No,7.0,1,1
+BA14,44,M,Urban,Bjelovar,NotSingle,MSc,Economy,Lecturer,2,Yes,2.0,Yes,No,No,7.0,3,2
+BA15,47,M,Urban,Zagreb,Single,PhD,Computer Science,Lecturer/Researcher,4,Yes,3.0,No,No,No,7.0,0,1
+BA16,28,F,Rural,Nova gradiska,NotSingle,MSc,Geografy,Research/Admin,2,Yes,3.0,No,No,No,8.0,0,1
+BA17,40,F,Urban,"Lodz, Poland",NotSingle,MSc,Managment,Research/Admin,3,No,0.0,No,No,No,6.5,2,2
+BA18,30,F,Urban,Pula,NotSingle,MSc,Political science,Research/Admin,3,Yes,3.0,No,No,No,7.5,0,1
+BA19,30,M,Urban,Zagreb,NotSingle,MSc,Engineering,Developer,2,Yes,5.0,No,No,No,7.5,0,1
+BA20,32,F,Urban,Zagreb,NotSingle,MSc,Education,HR,2,Yes,0.0,No,No,No,6.0,0,1
+BA21,28,F,Urban,Varazdin,NotSingle,MSc,Political science,Research/Admin,2,Yes,3.0,No,No,No,7.5,0,1
+BA22,27,M,Urban,Zagreb,NotSingle,BSc,Multimedia,Multimedia,2,Yes,3.0,No,No,No,7.2,0,1
+BA23,24,M,Urban,Zadar,Single,MSc,IT,Researcher/Lecturer,2,Yes,0.0,Yes,No,No,6.0,1,2
+BA24,32,F,Urban,Zagreb,NotSingle,BSc,Pedagody,Education,4,Yes,3.0,No,No,No,6.0,0,1
+BA25,47,M,Urban,Zagreb,NotSingle,PhD,Computer Science,Researcher/Lecturer,4,Yes,0.0,Yes,No,No,5.5,0,0
+BA26,20,M,Urban,Zagreb,Single,High School,IT,Student,3,Yes,4.0,Yes,No,No,6.5,1,2
+BA27,58,M,Urban,Zagreb,NotSingle,PhD,IT,Researcher/Lecturer,3,Yes,3.0,Yes,No,No,7.5,1,2
+BA28,24,F,Urban,Dubrovnik,NotSingle,High School,Linguistic,Student,4,No,0.0,No,No,No,5.5,2,2
+BA29,24,F,Urban,Zadar,Single,High School,Design,Student,2,No,0.0,No,No,No,6.5,1,1
+BA30,20,M,Urban,Zagreb,NotSingle,High School,IT,Student,3,Yes,1.0,Yes,Yes,No,6.0,1,1
+BA31,30,F,Urban,Stuttgart,NotSingle,BSc,Diplomacy,PR/Marketing,3,Yes,3.0,No,No,No,6.5,1,1
+BA32,33,F,Rural,Zagreb,NotSingle,MSc,Computer Science,Researcher,3,Yes,1.0,No,No,No,6.0,0,1
+BA33,31,M,Urban,Zagreb,Single,MSc,Computer Science,Researcher,4,Yes,4.0,No,No,No,7.5,1,2
+BA34,43,M,Urban,Zagreb,NotSingle,MSc,Engineering,Lecturer,2,No,3.0,Yes,No,No,7.0,1,2
+BA35,39,F,Urban,Zagreb,Single,MSc,Economy,Accounting,3,Yes,2.0,No,Yes,No,6.5,0,1
+BA36,44,F,Rural,Zagreb,NotSingle,BSc,Marketing,Marketing,2,No,3.0,No,No,No,6.0,2,2
+BA37,37,F,Urban,Velika Gorica,NotSingle,MSc,Geology,Accounting,2,Yes,1.0,No,No,No,7.0,0,1
+BA38,39,F,Urban,Zadar,Single,BSc,Economy,Accounting,2,Yes,3.5,No,No,Yes,7.5,3,1
+BA39,45,F,Urban,Zagreb,NotSingle,MSc,Art,Designer,2,Yes,2.0,No,Yes,No,7.0,0,1
+BA42,46,F,Urban,Zagreb,NotSingle,BSc,Economy,Accounting,3,Yes,0.0,No,No,No,8.5,0,1
+BA43,23,M,Urban,Zagreb,NotSingle,BSc,Computer Science,IT,2,Yes,3.0,No,No,No,7.0,3,1
+BA44,44,F,Urban,Zagreb,NotSingle,MSc,Psychology,HR,2,No,0.0,No,No,No,7.5,1,2
+BA45,43,M,Rural,Sveta Nedelja,NotSingle,MSc,IT,Lecturer,2,Yes,0.0,No,Yes,No,7.0,0,1
+BA46,41,M,Urban,Zagreb,NotSingle,PhD,Communications,Board Member,4,Yes,3.0,No,No,No,6.0,1,1
+BA47,48,M,Urban,Zagreb,NotSingle,MSc,Computer Science,Lecturer,2,Yes,1.0,Yes,No,No,7.0,0,1
+BA48,52,F,Urban,Zagreb,NotSingle,PhD,Anthropology,Research/Managment,4,Yes,3.0,No,No,No,6.0,0,2
+BA49,50,M,Urban,Zagreb,NotSingle,MSc,Engineering,Manager,3,Yes,3.0,No,No,No,6.0,0,1
+BA50,31,M,Urban,Zagreb,NotSingle,BSc,Sport,Sport,2,Yes,7.0,Yes,No,No,7.0,1,1
+BA51,50,M,Urban,Zagreb,NotSingle,MSc,Computer Science,Lecturer,4,Yes,3.0,No,No,No,6.0,0,0
+BA52,22,M,Urban,Caen,Single,BSc,Computer Science,Student,3,Yes,1.0,No,No,No,6.0,0,2
+BA53,22,M,Urban,Caen,Single,BSc,Computer Science,Student,2,Yes,1.0,Yes,No,No,7.0,0,0
+BA56,27,F,Urban,Zagreb,Single,MSc,International Relations,Administration,3,Yes,3.0,No,No,No,5.0,2,2
+BA57,29,F,Urban,Zagreb,Single,BSc,Computer Science,Student,4,Yes,1.0,Yes,Yes,Yes,7.0,3,2
+BA58,50,M,Urban,Zagreb,NotSingle,PhD,Economy,Lecturer,4,No,1.0,Yes,No,No,6.5,0,2
+BA59,53,F,Urban,Zagreb,NotSingle,PhD,Psychology,Lecturer,3,No,0.0,No,No,No,7.0,0,2
+BA60,25,F,Rural,Kraljv Vrh,NotSingle,BSc,Sociology,Coordinator,3,Yes,0.0,No,No,No,5.5,3,3
+BA61,25,M,Rural,Zaton,NotSingle,High School,Physics,Student,2,No,0.0,Yes,No,No,7.5,3,2
+BA62,48,F,Urban,Zagreb,NotSingle,MSc,Linguistic & Education,Management,5,Yes,3.0,No,No,No,6.0,0,0
+BA63,24,F,Urban,Zagreb,NotSingle,MSc,Molecular Biology,Farmacologist,3,Yes,4.0,No,No,No,7.0,1,1
+BA64,31,F,Rural,Kljuc Brdovecki,Single,MSc,Lingustic,Management,4,No,0.0,No,No,No,7.0,0,1
+BA65,25,M,Urban,Zagreb,NotSingle,MSc,Computer Science,Developer,3,Yes,2.0,No,No,No,8.0,1,1
+BA66,20,M,Urban,Umag,Single,High School,Computer Science,Student,2,Yes,2.0,No,No,No,7.0,0,2
+BA68,45,M,Urban,Cakovec,NotSingle,PhD,Economy,Lecturer,4,Yes,1.0,No,No,No,6.0,2,1
+BA69,49,F,Urban,Zagreb,Single,BSc,Economy,Marketing,2,Yes,6.0,No,No,No,6.0,2,2
+BA70,37,F,Urban,Bjelovar,NotSingle,BSc,Sociology,Admin/Management,2,Yes,5.0,No,No,No,5.0,1,1
+BA71,44,M,Urban,Velika Gorica,NotSingle,MSc,Electrical Engineering,IT,2,Yes,3.0,No,No,No,7.0,0,1
+BA72,22,F,Urban,Osijek,Single,High School,Computer Science,Student,3,Yes,0.0,No,Yes,Yes,8.0,3,3
+BA73,44,M,Urban,Zagreb,NotSingle,MSc,Computer Science,IT,2,Yes,3.0,No,No,No,6.0,1,3
+BA74,22,M,Urban,Zagreb,NotSingle,High School,Computer Science,Student,3,Yes,1.0,Yes,No,No,7.5,1,0
+BA75,23,M,Urban,Zagreb,NotSingle,High School,Computer Science,Student,3,Yes,0.0,Yes,No,No,7.5,0,1
+BA76,29,M,Urban,Zagreb,Single,High School,Computer Science,Developer,2,Yes,3.0,No,No,No,6.5,3,1
+BA77,30,F,Urban,Zagreb,NotSingle,MSc,Geography,Research/Administration,3,No,0.0,No,No,No,6.0,0,0
+BA78,27,F,Rural,Sisak,NotSingle,High School,,Management,3,No,5.0,No,No,No,7.0,0,1
+BA79,37,F,Rural,Krizevci,NotSingle,MSc,Agroeconomics,Sector For Comunity,2,No,3.0,No,No,No,7.0,0,1
+BA80,36,F,Urban,Zagreb,NotSingle,MSc,IT,Coordinator,3,Yes,3.0,Yes,No,No,7.0,0,1
+BA81,28,M,Urban,Zagreb,NotSingle,MSc,Lingustic,Coordinator,6,Yes,3.0,No,No,No,6.0,0,1
+BA82,29,F,Urban,Zagreb,NotSingle,MSc,Lingustic,Administrator,6,Yes,1.0,Yes,No,No,8.0,0,1
+BA83,44,F,Urban,Zagreb,NotSingle,BSc,Economy,Sales,3,Yes,2.0,No,No,No,5.0,1,1
+BA84,34,F,Urban,Zagreb,NotSingle,MSc,"Anthropology,Biochemistry",Coordinator,2,No,2.0,No,No,No,7.0,1,2
+BA85,40,M,Urban,Zagreb,Single,MSc,Engineering,Coordinator,2,Yes,0.0,No,No,No,7.0,0,3
+BA86,55,M,Urban,Zagreb,NotSingle,MSc,Computer Science,Consulting/education,3,No,2.0,No,No,No,6.5,0,3
+BA87,40,M,Urban,Sisak,NotSingle,MSc,Communications,Lecturer/Manager,3,Yes,4.0,Yes,No,No,6.0,0,1
+BA89,34,M,Rural,VInkovci,NotSingle,MSc,Art,IT,2,Yes,0.0,No,No,Yes,8.0,0,2
+BA90,24,F,Urban,Zadar,NotSingle,MSc,Psychology,Lecturer,3,No,0.0,Yes,No,No,7.0,1,2
+BA91,33,M,Urban,Velika Gorica,NotSingle,MSc,Computer Science,Lecturer/Manager,3,No,0.0,No,No,No,5.5,3,2
+BA92,53,F,Urban,Ptuj,NotSingle,BSc,Law,Administrator,3,No,1.0,No,No,No,6.0,3,2
+BA93,59,M,Urban,Zagreb,NotSingle,BSc,Economy,Manager,3,No,2.0,No,No,No,7.0,1,2
