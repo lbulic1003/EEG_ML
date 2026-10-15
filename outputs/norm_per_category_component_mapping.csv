@@ -1,0 +1,6 @@
+normalised_component,matched_original,cosine_similarity
+comp_1,comp_2,0.7998486731848475
+comp_2,comp_3,0.8610174489979213
+comp_3,comp_5,0.9639747542615141
+comp_4,comp_1,0.8807031910109633
+comp_5,comp_4,0.9257019684545942
