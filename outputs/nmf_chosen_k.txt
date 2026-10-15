@@ -1,2 +1,0 @@
-chosen_k: 5
-rationale: Satisfactory complexity, stability and reconstruction error.
