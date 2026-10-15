@@ -1,0 +1,3 @@
+component,response,n_obs,n_participants,n_tasks,sex_main_beta,sex_main_p,interaction_LR_chi2,interaction_df,interaction_p,converged_full,converged_additive,seconds
+comp_1,z,3168,86,37,0.19630281050778284,0.2817024255896434,38.91147620563788,36,0.3400083607309008,True,True,1.2
+comp_4,z,3168,86,37,0.08100422199006108,0.6618011372405337,44.15638537888299,36,0.1649694248559801,True,True,1.4

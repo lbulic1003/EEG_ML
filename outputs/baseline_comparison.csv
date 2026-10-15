@@ -1,0 +1,5 @@
+method,sex_detected,statistic,p_value
+"mass-univariate (BH-FDR, 350 tests)",False,0 of 350 features survive FDR,0.05401220500747632
+cluster-based permutation,False,max cluster mass = 17.41 (9 clusters formed),0.1929614077184563
+PCA embedding (k = 5) + omnibus,True,pseudo-R² = 0.2241,0.006798640271945611
+NMF embedding (k = 5) + omnibus,True,pseudo-R² = 0.2742,0.0033993201359728

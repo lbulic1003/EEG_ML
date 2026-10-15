@@ -1,0 +1,3 @@
+test,n,n_nonzero,median_delta,W,p_two_sided,p_greater,rank_biserial,note
+O1/O2 alpha — pair 'gyrus_left',86,86,0.39128208330470227,200.0,6.330501622196858e-13,3.165250811098429e-13,0.8930767174552259,75/86 participants increased
+O1/O2 alpha — pair 'gyrus_right',86,86,0.2818748730020758,348.0,5.531457054466781e-11,2.7657285272333905e-11,0.813953488372093,70/86 participants increased

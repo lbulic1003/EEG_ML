@@ -1,0 +1,10 @@
+cluster_mass,direction,n_features,p_cluster,categories,channels,bands
+17.40593547654468,higher in females,6,0.1929614077184563,temporal,"AF3,AF4,F7,F8","Alpha,Theta"
+15.78644164349282,higher in females,6,0.20715856828634274,parietal,"AF3,AF4,F7,F8","Alpha,Theta"
+15.579734075804598,higher in females,6,0.20975804839032194,frontal_central,"AF3,AF4,F7,F8","Alpha,Theta"
+13.977127781536222,higher in females,5,0.23095380923815237,frontal,"AF3,AF4,F7,F8","Alpha,Theta"
+9.915386387496879,higher in females,4,0.3125374925014997,frontal_central,"AF3,AF4,F7","BetaH,Gamma"
+9.132835424800755,higher in females,4,0.3323335332933413,frontal_central,"P8,T8","BetaH,Gamma"
+4.076981139039685,higher in females,2,0.6146770645870826,frontal_central,P7,"BetaH,Gamma"
+2.506693262803759,higher in males,1,0.635872825434913,occipital,O2,Gamma
+2.3473180526922226,higher in females,1,0.6626674665066986,parietal,AF3,Gamma
